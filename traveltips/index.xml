@@ -1,32 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Travel Tips on TobyTime</title>
-    <link>https://tobythesharpeagle.github.io/traveltips/</link>
-    <description>Recent content in Travel Tips on TobyTime</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright © 2023 TobyTime | </copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tobythesharpeagle.github.io/traveltips/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bootstrap elements</title>
-      <link>https://tobythesharpeagle.github.io/traveltips/bootstrap-elements/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://tobythesharpeagle.github.io/traveltips/bootstrap-elements/</guid>
-      <description>Hinode provides several shortcodes that wrap common Bootstrap components. Refer to the official documentation for more details.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Travel Tips on TobyTime</title><link>https://tobytime.club/traveltips/</link><description>Recent content in Travel Tips on TobyTime</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2023 TobyTime |</copyright><lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tobytime.club/traveltips/index.xml" rel="self" type="application/rss+xml"/><item><title>Bootstrap elements</title><link>https://tobytime.club/traveltips/bootstrap-elements/</link><pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate><guid>https://tobytime.club/traveltips/bootstrap-elements/</guid><description>Hinode provides several shortcodes that wrap common Bootstrap components. Refer to the official documentation for more details.
 Accordion As an example, the following shortcode displays an accordion with three elements, of which the first element is expanded.
-Accordion Item #1 This is the first item&amp;rsquo;s accordion body. It supports HTML content. The item is shown by adding the value show to the class argument. Accordion Item #2 This is the second item&amp;rsquo;s accordion body.</description>
-    </item>
-    
-    <item>
-      <title>Template</title>
-      <link>https://tobythesharpeagle.github.io/traveltips/template/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://tobythesharpeagle.github.io/traveltips/template/</guid>
-      <description>Hinode is available as a template, and a main theme. The template uses npm to link to the latest available version of the Hinode theme. As such, it is less applicable if you plan to customize a lot. Vice versa, the main theme allows for heavy customization, but is not synchronized with the latest available Hinode theme automatically.</description>
-    </item>
-    
-  </channel>
-</rss>
+Accordion Item #1 This is the first item&amp;rsquo;s accordion body. It supports HTML content. The item is shown by adding the value show to the class argument. Accordion Item #2 This is the second item&amp;rsquo;s accordion body.</description></item><item><title>Template</title><link>https://tobytime.club/traveltips/template/</link><pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate><guid>https://tobytime.club/traveltips/template/</guid><description>Hinode is available as a template, and a main theme. The template uses npm to link to the latest available version of the Hinode theme. As such, it is less applicable if you plan to customize a lot. Vice versa, the main theme allows for heavy customization, but is not synchronized with the latest available Hinode theme automatically.</description></item></channel></rss>
